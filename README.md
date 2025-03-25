@@ -9,19 +9,19 @@ This tool makes it easy to research news. Just enter an article link and ask que
 4. Ask questions to ChatGPT and get answers along with the source URLs.
 
 #### Installation
-1.Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
 
 ```bash
   git clone (https://github.com/SarthakNikhal/Article-Researcher-LLM.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 3. Install the required dependencies using pip:
 
 ```bash
   pip install -r requirements.txt
 ```
-4.Set up your OpenAI API key by creating a .env file in the project root and adding your API
+4. Set up your OpenAI API key by creating a .env file in the project root and adding your API
 
 ```bash
   OPENAI_API_KEY=your_api_key_here
@@ -34,7 +34,7 @@ streamlit run main.py
 
 ```
 
-2.The web app will open in your browser.
+2. The web app will open in your browser.
 
 - On the sidebar, enter the URLs of the articles you want to analyze.
 - Click "Process URLs" to load and process the data
