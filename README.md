@@ -12,7 +12,7 @@ This tool makes it easy to research news. Just enter an article link and ask que
 1. Clone this repository to your local machine using:
 
 ```bash
-  git clone (https://github.com/SarthakNikhal/Article-Researcher-LLM.git
+  git clone https://github.com/SarthakNikhal/Article-Researcher-LLM.git
 ```
 2. Navigate to the project directory:
 
